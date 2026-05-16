@@ -1,0 +1,21 @@
+id,title,company,location,type,salary_min,salary_max,skills,experience,posted_days_ago,hot
+1,Python Developer,Google India,Bangalore,On-site,1800000,2500000,"Python,Django,GCP,SQL,Git",3,1,true
+2,ML Engineer,Microsoft,Hyderabad,Hybrid,2000000,3000000,"ML,Python,Azure,TensorFlow,Docker",2,2,true
+3,Flutter Developer,Swiggy,Remote,Remote,1200000,1800000,"Flutter,Dart,Firebase,REST API",1,3,false
+4,Data Scientist,Flipkart,Bangalore,On-site,1500000,2200000,"Python,Pandas,ML,SQL,Tableau",2,4,false
+5,Backend Developer,Razorpay,Remote,Remote,1000000,1500000,"Python,Flask,Docker,PostgreSQL",2,5,false
+6,AI Engineer,OpenAI India,Mumbai,Hybrid,3000000,5000000,"Python,LLM,PyTorch,NLP,AWS",4,1,true
+7,DevOps Engineer,Amazon,Bangalore,On-site,1800000,2800000,"AWS,Docker,Kubernetes,Linux,CI/CD",3,2,true
+8,Full Stack Developer,Zomato,Delhi,Hybrid,1200000,2000000,"React,Node,Python,MongoDB,Git",2,3,false
+9,NLP Engineer,Infosys,Pune,On-site,1400000,2200000,"Python,NLP,spaCy,BERT,TensorFlow",3,4,false
+10,Data Engineer,TCS,Hyderabad,On-site,1000000,1600000,"Python,Spark,Hadoop,SQL,AWS",2,5,false
+11,React Developer,Myntra,Bangalore,Hybrid,1000000,1600000,"React,JavaScript,HTML,CSS,Node",2,6,false
+12,Android Developer,Paytm,Noida,On-site,1200000,1800000,"Kotlin,Java,Android,Firebase,REST API",2,7,false
+13,Cloud Architect,IBM,Bangalore,On-site,2500000,4000000,"AWS,Azure,GCP,Docker,Kubernetes",5,8,true
+14,Cybersecurity Engineer,HCL,Chennai,On-site,1500000,2500000,"Security,Python,Linux,Network,Ethical Hacking",3,9,false
+15,Blockchain Developer,Polygon,Remote,Remote,2000000,3500000,"Solidity,Python,Web3,Ethereum,Smart Contracts",3,10,true
+16,ML Ops Engineer,PhonePe,Bangalore,Hybrid,1800000,2800000,"Python,MLOps,Docker,Kubernetes,AWS",3,2,true
+17,UI/UX Designer,Meesho,Bangalore,Hybrid,800000,1400000,"Figma,Adobe XD,Sketch,CSS,User Research",2,3,false
+18,Product Manager,CRED,Bangalore,On-site,2000000,3500000,"Product,Analytics,SQL,Communication,Strategy",4,4,false
+19,QA Engineer,Wipro,Pune,On-site,700000,1200000,"Testing,Selenium,Python,JIRA,API Testing",2,5,false
+20,Data Analyst,Nykaa,Mumbai,Hybrid,800000,1400000,"SQL,Excel,Python,Tableau,Power BI",1,6,false

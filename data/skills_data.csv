@@ -1,0 +1,41 @@
+skill,category,demand_level,avg_salary_boost,learning_time_months,trending
+Python,Programming,Very High,25,3,true
+JavaScript,Programming,Very High,20,4,true
+Flutter,Mobile,High,22,4,true
+React,Frontend,Very High,22,4,true
+Machine Learning,AI/ML,Very High,40,6,true
+Deep Learning,AI/ML,High,45,8,true
+NLP,AI/ML,High,38,6,true
+TensorFlow,AI/ML,High,35,5,true
+PyTorch,AI/ML,High,38,5,true
+SQL,Database,Very High,15,2,false
+MongoDB,Database,High,18,2,false
+PostgreSQL,Database,High,16,2,false
+AWS,Cloud,Very High,30,4,true
+Azure,Cloud,High,28,4,true
+GCP,Cloud,High,26,4,false
+Docker,DevOps,Very High,25,2,true
+Kubernetes,DevOps,High,30,3,true
+Git,Tools,Very High,10,1,false
+Django,Backend,High,20,3,false
+Flask,Backend,High,18,2,false
+FastAPI,Backend,High,22,2,true
+Node,Backend,High,20,3,false
+Kotlin,Mobile,High,20,4,false
+Swift,Mobile,Medium,22,5,false
+Dart,Mobile,High,18,3,true
+LLM,AI/ML,Very High,50,6,true
+Prompt Engineering,AI/ML,Very High,45,2,true
+Data Science,Analytics,High,35,6,true
+Power BI,Analytics,High,20,2,false
+Tableau,Analytics,High,18,2,false
+Spark,Big Data,High,28,4,false
+Hadoop,Big Data,Medium,22,4,false
+Blockchain,Web3,Medium,40,6,false
+Solidity,Web3,Medium,45,6,false
+Cybersecurity,Security,High,35,6,true
+Linux,Systems,High,15,3,false
+CI/CD,DevOps,High,20,3,false
+GraphQL,API,Medium,20,2,false
+Redis,Database,Medium,18,2,false
+Microservices,Architecture,High,25,4,true
