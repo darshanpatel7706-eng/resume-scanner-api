@@ -12,6 +12,11 @@ from datetime import datetime, timedelta
 
 app = Flask(__name__)
 CORS(app)
+nlp = spacy.load('en_core_web_sm')
+
+@app.route("/")
+def home():
+    return "Server Connected"
 
 # ============ CONFIG ============
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///resumescanner.db'
